@@ -42,6 +42,7 @@
 | **[Caffezo](https://caffezo.com)** | Multi-tenant SaaS for restaurants and bars across Europe: QR menus, orders, staff shifts with payroll, bookings and analytics, in all European languages. | React · Flutter · Firebase |
 | **[ManB2B](https://manp2p.web.app)** | Field-team management: recurring schedules, hour tracking, photo reports, three role-based views and automatic monthly PDF invoices. RTL-ready. | React · TypeScript · Firebase · Stripe |
 | **[Sì Pattina](https://si-pattini.web.app/welcome)** | Live GPS group-ride tracking: the route draws itself on everyone's map in real time, then exports as a shareable card, video or GPX. | React · Capacitor · Leaflet · Firebase |
+| **[NMoney](https://play.google.com/store/apps/details?id=com.auryxstudio.nmoney)** | Personal finance app on Google Play: income and expenses, multiple jobs and freelance hours, monthly insights and backups. Fully offline, 6 languages including Arabic. | Flutter · SQLite · Provider |
 | **PocketLinks** | Offline Android link manager that saves links from any app via the share menu. | Flutter · SQLite |
 
 > 🔒 Most of my work is client and commercial code, so those repositories are private. The live products above are the best way to see it.
