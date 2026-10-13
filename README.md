@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kerolosmina.dev"><img src="https://img.shields.io/badge/Portfolio-kerolosmina.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kerolos-mina.web.app"><img src="https://img.shields.io/badge/Portfolio-kerolos--mina.web.app-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kerolos-mina-484801312"><img src="https://img.shields.io/badge/LinkedIn-Kerolos%20Mina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:keromina550@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -55,6 +55,6 @@
   <img src="https://img.shields.io/badge/Oracle-Academy-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Academy" />
 </p>
 
-Full list with verification links on **[kerolosmina.dev](https://kerolosmina.dev/#certifications)**.
+Full list with verification links on **[kerolos-mina.web.app](https://kerolos-mina.web.app/#certifications)**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="" />
